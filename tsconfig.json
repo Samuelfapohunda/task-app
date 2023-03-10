@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+  "module": "NodeNext",
+  "moduleResolution": "node",
+  "baseUrl": "src",
+  "outDir": "./build",
+  "sourceMap": true,
+  "esModuleInterop": true,
+  "noImplicitAny": true,
+  "skipLibCheck": true
+  },
+  "include": ["src/**/*"]
+}
